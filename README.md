@@ -34,14 +34,17 @@ source venv\Scripts\activate
     pip install requirements.txt
  ```
 
-### Set up your API key for OpenAI:
+4. Set up your API key for OpenAI:
 - Create a file named api_key.py in the project directory.
 - Add your API key in the file:
 
   ```
   API_KEY = 'your_api_key'
   ```
-
+5. Run the below line on terminal
+   ```
+   python app.py
+   ```
 
 
 
