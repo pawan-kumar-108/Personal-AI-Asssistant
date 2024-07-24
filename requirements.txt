@@ -1,0 +1,9 @@
+Flask
+Jinja2
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchainhub
+openai
+python-dotenv 
